@@ -1,0 +1,15 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  font-size: 40px;
+}
+.first{
+  border: 1px solid red;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.second{
+  list-style-type: none;
+}
